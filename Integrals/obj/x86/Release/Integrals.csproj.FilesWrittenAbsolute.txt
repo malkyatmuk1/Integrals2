@@ -1,0 +1,3 @@
+/home/malkyatmuk/Projects/Integrals/Integrals/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/malkyatmuk/Projects/Integrals/Integrals/bin/Release/Integrals.exe
+/home/malkyatmuk/Projects/Integrals/Integrals/obj/x86/Release/Integrals.exe

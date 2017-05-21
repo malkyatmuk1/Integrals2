@@ -1,0 +1,5 @@
+/home/malkyatmuk/Projects/Integrals/Integrals/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/malkyatmuk/Projects/Integrals/Integrals/bin/Debug/Integrals.exe.mdb
+/home/malkyatmuk/Projects/Integrals/Integrals/bin/Debug/Integrals.exe
+/home/malkyatmuk/Projects/Integrals/Integrals/obj/x86/Debug/Integrals.exe
+/home/malkyatmuk/Projects/Integrals/Integrals/obj/x86/Debug/Integrals.exe.mdb
